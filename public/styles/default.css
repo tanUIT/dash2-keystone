@@ -4,10 +4,11 @@ header {
       background-size: cover;
       color: white;
     }
-a {
+header ul li a {
   color: white;
 }
-h1 {
+header h1 {
+  margin-bottom: 30px;
   font-size: 70px;
 }
 img {
